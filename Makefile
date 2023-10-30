@@ -1,3 +1,5 @@
+# mdbook: https://github.com/rust-lang/mdBook/releases
+
 default:
 	mdbook serve
 
