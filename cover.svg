@@ -1,0 +1,33 @@
+<!-- 
+// https://github.com/china-programming-languages
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 660">
+
+<!-- 背景 -->
+<rect x="0" y="0" width="520" height="660" style="fill:RoyalBlue;stroke:none;"/>
+
+<!-- 外边框 -->
+<polyline points="1,1 519,1 519,659 1,659 1,1" style="fill:none;stroke:black;stroke-width:1"/>
+
+<!-- 主标题 -->
+<text x="64" y="180" fill="white" font-size="40px" font-weight="bold">国产编程语言发展洞察</text>
+
+<text x="216" y="250" fill="white" font-size="30px">蓝皮书</text>
+<text x="208" y="290" fill="white" font-size="24px">（2023）</text>
+
+<!-- 出版社 -->
+<text x="40" y="620" fill="black" font-style="italic" font-size="20px"></text>
+
+<!-- 作者 -->
+<text x="169" y="550" fill="white" font-size="20px">国产语言社区组委会</text>
+
+<!-- 中间图像 -->
+<!--
+// 外部图像Chrome之间打开可以, 但是有些场景不能工作. 最终输出改成 Base64 内联.
+// base64 -i input-file -o output.txt
+
+<image x="150" y="320" width="220" height="220" href="images/icons/logo.svg" />
+-->
+
+</svg>

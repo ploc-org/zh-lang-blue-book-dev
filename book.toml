@@ -1,0 +1,15 @@
+[book]
+title = "国产编程语言发展洞察"
+authors = ["国产语言社区组委会"]
+description = "蓝皮书(2023)"
+language = "zh"
+multilingual = false
+src = "."
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/china-programming-languages/zh-lang-blue-book-dev"
+edit-url-template = "https://github.com/china-programming-languages/zh-lang-blue-book-dev/edit/master/{path}"
+git-repository-icon = "fa-github"
